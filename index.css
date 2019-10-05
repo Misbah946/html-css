@@ -1,0 +1,33 @@
+
+h5{ font:1.2em "Fira Sans", sans-serif;}
+
+.container{
+  position: absolute;
+  width: 80%;
+  margin: auto;
+  
+  
+}
+.box-1{
+  position: abolute;
+  background-color: lightblue;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  
+  
+}
+
+.circular--portrait img {
+  border-radius: 50%;
+  overflow: hidden;
+  position: absolute;
+  margin-top: -230px;
+  margin-right: 45em;
+  margin-bottom: auto;
+  margin-left: 60em;
+  width: 200px;
+  height: 200px;
+  
+  
